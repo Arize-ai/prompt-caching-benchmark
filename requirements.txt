@@ -1,0 +1,5 @@
+anthropic==0.37.1
+matplotlib==3.9.2
+nltk==3.9.1
+numpy==2.1.2
+openai==1.52.2
